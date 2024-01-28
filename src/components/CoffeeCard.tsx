@@ -41,11 +41,7 @@ export const CoffeeCard = memo(({ coffeeItem }: Props) => {
         <div className="flex flex-row justify-between items-center">
           <div className="flex flex-row justify-start items-center">
             <FigureTemplate
-              image={
-                coffeeItem.rating
-                  ? "/src/assets/Star_fill.png"
-                  : "/src/assets/Star.png"
-              }
+              image={coffeeItem.rating ? "/Star_fill.png" : "/Star.png"}
               width={24}
               height={24}
             />
