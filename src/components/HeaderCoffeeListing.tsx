@@ -4,7 +4,7 @@ export const HeaderCoffeeListing = () => {
   return (
     <header className="flex flex-col justify-center items-center mt-24">
       <div className="absolute min-[320px]:mb-[150px] lg:mb-[100px] xl:mb-[50px] md:ml-[100px]">
-        <FigureTemplate image={"/src/assets/vector.svg"} width={0} height={0} />
+        <FigureTemplate image={"/src/assets/vector.png"} width={0} height={0} />
       </div>
       <div
         className="z-10 flex flex-col justify-center items-center

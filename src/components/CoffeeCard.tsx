@@ -43,8 +43,8 @@ export const CoffeeCard = memo(({ coffeeItem }: Props) => {
             <FigureTemplate
               image={
                 coffeeItem.rating
-                  ? "/src/assets/Star_fill.svg"
-                  : "/src/assets/Star.svg"
+                  ? "/src/assets/Star_fill.png"
+                  : "/src/assets/Star.png"
               }
               width={24}
               height={24}
