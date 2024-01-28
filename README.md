@@ -12,18 +12,15 @@ Asegúrate de tener Node.js y pnpm instalados en tu sistema antes de comenzar.
    cd simple-coffee-listing
    ```
 
-````
-
 2. **Instalar las dependencias:**
-```bash
-pnpm install
-````
+   ```bash
+   pnpm install
+   ````
 
 3. **Ejecutar el proyecto:**
-
-```bash
-pnpm run dev
-```
+   ```bash
+   pnpm run dev
+   ```
 
 ## Propósito del proyecto simple-coffee-listing
 
